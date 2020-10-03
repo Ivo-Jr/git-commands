@@ -1,3 +1,4 @@
 # GIT E GITHUB
 
-    -> Estudo pessoal
+    -> Personal study. 
+    [/] Perfecting knowledge in Git.
