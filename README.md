@@ -9,7 +9,8 @@
     [] git log -> visualiza os pontos na linha do tempo;
     [] git status -> infforma o estado das alterações do nosso projeto;
     [] git show -> apresenta determinado ponto na história;
-    [] git branch -> cria uma nova branch/ramificação;
+    [] git branch "new branch" -> cria uma nova branch/ramificação;
+    [] git branch -> lista todas as branchs;
     [] git checkout -> atalho para mudar de branch;
     [] git merge -> mescla o conteúdo entre duas branchs;
     [] git branch -D -> deleta uma branch especifica;
