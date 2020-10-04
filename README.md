@@ -16,6 +16,8 @@
     [x] git checkout -> atalho para mudar de branch;
     [x] git merge -> mescla o conteúdo entre duas branchs;
     [x] git branch -D -> deleta uma branch especifica;
+    [x] git ls-sile -d -> lista arquivos deletados;
+    [x] git restore (nome do path(s) com extensão) -> restaura aquivo deletado;
     [x] git branch -M (nome da branch) -> Cria a branch no repositório remoto/online;
     [x] git push -u origin (nome da brach) -> Empurra o repositório local para o repositório online;
     [x] git clone ->
