@@ -9,11 +9,12 @@
 *    [x] git add -> adiciona ou atualiza mudanças para irem para a linha do tempo;
 *    [x] git commit -m "" -> adiciona um ponto na linha do tempo;
 *    [x] git log -> visualiza os pontos na linha do tempo;
-*    [x] git status -> infforma o estado das alterações do nosso projeto;
+*    [x] git status -> informa o estado das alterações do nosso projeto;
 *    [x] git show -> apresenta determinado ponto na história;
 *    [x] git branch ("new branch") -> cria uma nova linha no tempo (branch/ramificação);
 *        -> [/] git checkout -b (name new branch) -> comando curto para criar uma branch;
 *    [x] git branch -> lista todas as branchs;
+*    [x] git reset --hard "nome da tag ou Hash do commit" -> Volta o fonte para um commit específico;
 *    [x] git checkout -> manipula a linha do tempo;
 *    [/] git checkout (commit) --<file> -> resgata um arquivo de um determinado commit na linha do tempo;
 *    [x] git merge -> mescla o conteúdo entre duas branchs;
