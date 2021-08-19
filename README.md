@@ -27,4 +27,4 @@
 *    [x] git push -u origin (nome da brach) -> Empurra o repositório local para o repositório online;
 *    [/] git clone (https://...) -> Puxar um projeto no repositório online para o local;
 *    [/] git pull -> Puxa as atualizações da nuvem;
-*    [/] git reset --hard {hash-do-commit-desejado} -> Voltar a um commit específico, EXCLUÍNDO os já feitos depois dele!!! ("hash do commit" é o número dele)
+*    [x] git reset --hard {hash-do-commit-desejado} -> Voltar a um commit específico, EXCLUÍNDO os já feitos depois dele!!! ("hash do commit" é o número dele)
