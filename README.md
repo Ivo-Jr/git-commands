@@ -28,3 +28,6 @@
 *    [/] git clone (https://...) -> Puxar um projeto no repositório online para o local;
 *    [/] git pull -> Puxa as atualizações da nuvem;
 *    [x] git reset --hard {hash-do-commit-desejado} -> Voltar a um commit específico, EXCLUÍNDO os já feitos depois dele!!! ("hash do commit" é o número dele)
+*        git config --list -> lista as configurações
+*        git config --global --unset user.email -> apaga o email cadastrado (pode ser trocado por user.name)
+*        git config --global user.email "new email" -> configura um email novo (pode ser trocado por user.name)
