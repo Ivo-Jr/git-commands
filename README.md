@@ -31,3 +31,5 @@
 *        git config --list -> lista as configurações
 *        git config --global --unset user.email -> apaga o email cadastrado (pode ser trocado por user.name)
 *        git config --global user.email "new email" -> configura um email novo (pode ser trocado por user.name)
+*    [x] git config --local user.email -> autor dos commits
+*    [x] git config --local user.name -> autor dos commits
