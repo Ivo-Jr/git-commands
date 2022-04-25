@@ -25,8 +25,9 @@
 *    [x] git branch -M (nome da branch) -> Cria a branch no repositório remoto/online;
 *    [x] git config credential.helper store -> Autentificação de usuário para subir sem solicitar login e password;
 *    [x] git push -u origin (nome da brach) -> Empurra o repositório local para o repositório online;
-*    [/] git clone (https://...) -> Puxar um projeto no repositório online para o local;
-*    [/] git pull -> Puxa as atualizações da nuvem;
+*    [x] git clone (https://...) -> Puxar um projeto no repositório online para o local;
+*    [x] git pull -> Puxa as atualizações da nuvem;
+*    [/] git pull origin [branck a ser copiada] [sua branch] -> Puxa as atualizações da nuvem;
 *    [x] git reset --hard {hash-do-commit-desejado} -> Voltar a um commit específico, EXCLUÍNDO os já feitos depois dele!!! ("hash do commit" é o número dele)
 *        git config --list -> lista as configurações
 *        git config --global --unset user.email -> apaga o email cadastrado (pode ser trocado por user.name)
